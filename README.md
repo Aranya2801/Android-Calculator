@@ -56,7 +56,7 @@
 
 | Dark Theme | AMOLED Theme | Light Theme | Material You |
 |:---:|:---:|:---:|:---:|
-| ![dark](assets/screenshots/dark.png) | ![amoled](assets/screenshots/amoled.png) | ![light](assets/screenshots/light.png) | ![material](assets/screenshots/material.png) |
+| ![dark](dark.png) | ![amoled](amoled.png) | ![light](light.png) | ![material](material.png) |
 
 ---
 
